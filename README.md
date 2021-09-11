@@ -5,43 +5,19 @@
 - 🥅 2021 Goals : Get my engineering degree and contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and ride my motorbike
 
-## My tools
+## My tools and languages
 
-<div>
-  <div style="padding: 5px;">
-    <img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" />
-  </div>
+<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" />
+<img align="left" alt="Visual Studio" width="26px" src="img/vs.png" />
 
-  <div style="padding: 5px;">
-    <img align="left" alt="Visual Studio" width="26px" src="img/vs.png" />
-  </div>
+<img align="left" alt="Postgresql" width="26px" src="img/postgresql.png" />
 
-  <div style="padding: 5px;">
-    <img align="left" alt="Postgresql" width="26px" src="img/postgresql.png" />
-  </div>
+<img align="left" alt="Git" width="26px" src="img/git.png" />
+<img align="left" alt="GitHub" width="26px" src="img/github.png" />
+<img align="left" alt="GitLab" width="26px" src="img/gitlab.png" />
+<img align="left" alt="GitKraken" width="26px" src="img/gitkraken.png" />
 
-  <div style="padding: 5px;">
-    <img align="left" alt="Git" width="26px" src="img/git.png" />
-  </div>
-
-  <div style="padding: 5px;">
-    <img align="left" alt="GitHub" width="26px" src="img/github.png" />
-  </div>
-
-  <div style="padding: 5px;">
-    <img align="left" alt="GitLab" width="26px" src="img/gitlab.png" />
-  </div>
-
-  <div style="padding: 5px;">
-    <img align="left" alt="GitKraken" width="26px" src="img/gitkraken.png" />
-  </div>
-
-  <div style="padding: 5px;">
-    <img align="left" alt="Terminal" width="26px" src="img/terminal.png" />
-  </div>
-</div>
-
-## My languages
+<img align="left" alt="Terminal" width="26px" src="img/terminal.png" />
 
 <img align="left" alt="Python" width="26px" src="img/python.png" />
 <img align="left" alt="Java" width="26px" src="img/java.png" />
@@ -50,6 +26,7 @@
 <img align="left" alt="CSS3" width="26px" src="img/css.png" />
 
 <br />
+<br />
+<br />
 
-![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api?username=VannotAlexi0x73&include_all_commits=true&count_private=true&line_height=21&show_icons=true&theme=radical)
-![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VannotAlexi0x73&layout=compact&card_width=250&theme=radical)
+![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api?username=VannotAlexi0x73&include_all_commits=true&count_private=true&line_height=21&show_icons=true&theme=radical) ![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VannotAlexi0x73&layout=compact&card_width=250&theme=radical)
