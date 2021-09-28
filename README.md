@@ -29,4 +29,4 @@
 <br />
 <br />
 
-![Alexis' GitHub stats](https://github-readme-stats-vannotalexi0x73.vercel.app/api?username=VannotAlexi0x73&include_all_commits=true&count_private=true&line_height=21&show_icons=true&theme=radical) ![Alexis' GitHub stats](https://github-readme-stats-vannotalexi0x73.vercel.app/api/top-langs/?username=VannotAlexi0x73&layout=compact&card_width=250&theme=radical&exclude_repo=github-readme-stats)
+![Alexis' GitHub stats](https://github-readme-stats-vannotalexi0x73.vercel.app/api?username=VannotAlexi0x73&include_all_commits=true&count_private=true&line_height=21&show_icons=true&theme=radical) ![Alexis' GitHub stats](https://github-readme-stats-vannotalexi0x73.vercel.app/api/top-langs/?username=VannotAlexi0x73&layout=compact&card_width=250&theme=radical&exclude_repo=github-readme-stats,Web-Project)
